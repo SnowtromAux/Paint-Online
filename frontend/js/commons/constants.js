@@ -12,7 +12,7 @@ const STARTING_COLORS = [
     "#0000FF",
     "#FFC0CB",
     "#FF0000",
-    "#FFA500",
+    "#FFA500",       
     "#FFFF00",
     "#008000",
     "#A52A2A",
